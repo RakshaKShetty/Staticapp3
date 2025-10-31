@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "69049220373f231246aaedfb_01caebb9-be5b-4771-a6d9-55bc87143772",
-  "id": "Tester123_Select_user_orders1",
+  "gitSyncId": "69049220373f231246aaedfb_83d76d9e-4da9-43ed-9998-2bfff7b574b6",
+  "id": "Test_Select_user_orders2",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
@@ -27,8 +27,8 @@
         "key": "body"
       }
     ],
-    "name": "Select_user_orders1",
-    "pageId": "Tester123",
+    "name": "Select_user_orders2",
+    "pageId": "Test",
     "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }

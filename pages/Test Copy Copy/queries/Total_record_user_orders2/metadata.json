@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "69049220373f231246aaedfb_8304f39f-c70e-431a-8a3b-0a8fc47b7c9d",
-  "id": "Tester123_Total_record_user_orders2",
+  "gitSyncId": "6904931b373f231246aaee89_b4d27218-beb7-4235-9c9f-c7f36ef1bca6",
+  "id": "Test Copy Copy_Total_record_user_orders2",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
@@ -28,7 +28,7 @@
       }
     ],
     "name": "Total_record_user_orders2",
-    "pageId": "Tester123",
+    "pageId": "Test Copy Copy",
     "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
