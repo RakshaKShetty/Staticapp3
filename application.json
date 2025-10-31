@@ -24,6 +24,10 @@
     {
       "id": "Naming Copy",
       "isDefault": true
+    },
+    {
+      "id": "Tester",
+      "isDefault": false
     }
   ],
   "staticUrlSettings": {
