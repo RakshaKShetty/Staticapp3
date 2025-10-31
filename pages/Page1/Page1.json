@@ -5,7 +5,7 @@
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 5000,
+          "bottomRow": 380,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
@@ -27,6 +27,7 @@
       }
     ],
     "name": "Page1",
-    "slug": "page1"
+    "slug": "page1",
+    "uniqueSlug": "page1"
   }
 }

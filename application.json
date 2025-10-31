@@ -22,6 +22,10 @@
       "isDefault": true
     }
   ],
+  "staticUrlSettings": {
+    "enabled": true,
+    "uniqueSlug": "untitled-application-1-60eb"
+  },
   "unpublishedApplicationDetail": {
     "appPositioning": {
       "type": "FIXED"
