@@ -18,7 +18,11 @@
   "icon": "basketball",
   "pages": [
     {
-      "id": "Page1",
+      "id": "Naming",
+      "isDefault": false
+    },
+    {
+      "id": "Naming Copy",
       "isDefault": true
     }
   ],

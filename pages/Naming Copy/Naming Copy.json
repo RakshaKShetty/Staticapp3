@@ -1,6 +1,7 @@
 {
-  "gitSyncId": "690491ca373f231246aaede7_cc6e8478-b5dc-4331-a5c4-c377bab18b38",
+  "gitSyncId": "69049220373f231246aaedfb_d9d2a036-413d-4864-86ea-ace2412175cb",
   "unpublishedPage": {
+    "isHidden": false,
     "layouts": [
       {
         "dsl": {
@@ -26,8 +27,8 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1",
-    "uniqueSlug": "page1"
+    "name": "Naming Copy",
+    "slug": "naming-copy",
+    "uniqueSlug": "page1-1"
   }
 }

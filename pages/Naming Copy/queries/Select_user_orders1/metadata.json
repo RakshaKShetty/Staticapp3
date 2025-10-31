@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "69049220373f231246aaedfb_f7fad096-f91d-44be-9f57-769a82de8c8c",
-  "id": "Page1_Select_user_orders2",
+  "gitSyncId": "69049220373f231246aaedfb_addee1f8-3328-4a06-9a2c-ca940395b203",
+  "id": "Naming Copy_Select_user_orders1",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
@@ -27,8 +27,8 @@
         "key": "body"
       }
     ],
-    "name": "Select_user_orders2",
-    "pageId": "Page1",
+    "name": "Select_user_orders1",
+    "pageId": "Naming Copy",
     "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }

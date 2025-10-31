@@ -1,11 +1,11 @@
 {
-  "gitSyncId": "69049220373f231246aaedfb_1ed387f7-0e07-464e-ace0-85939a585b70",
-  "id": "Page1_Select_user_orders1",
+  "gitSyncId": "69049220373f231246aaedfb_339a97e5-a1ba-446d-950f-d87f6faebb9d",
+  "id": "Naming_Total_record_user_orders2",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
     "actionConfiguration": {
-      "body": "SELECT\n  *\nFROM\n  user.orders\nORDER BY\n  \"{{Table1.sortOrder.column || 'order_id'}}\" {{Table1.sortOrder.order !== \"desc\" ? \"\" : \"DESC\"}}\nLIMIT\n  {{Table1.pageSize}}\nOFFSET\n  {{Table1.pageOffset}}",
+      "body": "SELECT COUNT(*) from user.orders;",
       "encodeParamsToggle": true,
       "paginationType": "NONE",
       "pluginSpecifiedTemplates": [
@@ -27,8 +27,8 @@
         "key": "body"
       }
     ],
-    "name": "Select_user_orders1",
-    "pageId": "Page1",
+    "name": "Total_record_user_orders2",
+    "pageId": "Naming",
     "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }

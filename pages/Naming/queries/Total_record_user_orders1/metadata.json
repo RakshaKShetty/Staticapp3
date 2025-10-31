@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "69049220373f231246aaedfb_339a97e5-a1ba-446d-950f-d87f6faebb9d",
-  "id": "Page1_Total_record_user_orders2",
+  "gitSyncId": "69049220373f231246aaedfb_5dea2095-8203-4d2a-a82b-8298c2743127",
+  "id": "Naming_Total_record_user_orders1",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
@@ -27,8 +27,8 @@
         "key": "body"
       }
     ],
-    "name": "Total_record_user_orders2",
-    "pageId": "Page1",
+    "name": "Total_record_user_orders1",
+    "pageId": "Naming",
     "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
