@@ -23,10 +23,14 @@
     },
     {
       "id": "Naming Copy",
-      "isDefault": true
+      "isDefault": false
     },
     {
       "id": "Tester",
+      "isDefault": true
+    },
+    {
+      "id": "Tester123",
       "isDefault": false
     }
   ],
